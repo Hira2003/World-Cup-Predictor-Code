@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Argentina",
+    "elo": 2115,
+    "form": "LWDWW",
+    "goalsScoredLast5": 11,
+    "goalsConcededLast5": 4
+  },
+  {
+    "name": "France",
+    "elo": 2063,
+    "form": "WWDWW",
+    "goalsScoredLast5": 13,
+    "goalsConcededLast5": 3
+  },
+  {
+    "name": "Spain",
+    "elo": 2157,
+    "form": "DWWWW",
+    "goalsScoredLast5": 12,
+    "goalsConcededLast5": 2
+  },
+  {
+    "name": "England",
+    "elo": 2024,
+    "form": "WWWWW",
+    "goalsScoredLast5": 14,
+    "goalsConcededLast5": 3
+  },
+  {
+    "name": "Brazil",
+    "elo": 1991,
+    "form": "LWWDL",
+    "goalsScoredLast5": 10,
+    "goalsConcededLast5": 5
+  },
+  {
+    "name": "Portugal",
+    "elo": 1989,
+    "form": "WLDWW",
+    "goalsScoredLast5": 11,
+    "goalsConcededLast5": 5
+  },
+  {
+    "name": "Germany",
+    "elo": 1932,
+    "form": "WWWWW",
+    "goalsScoredLast5": 15,
+    "goalsConcededLast5": 4
+  },
+  {
+    "name": "Morocco",
+    "elo": 1827,
+    "form": "LDWWW",
+    "goalsScoredLast5": 9,
+    "goalsConcededLast5": 4
+  },
+  {
+    "name": "Algeria",
+    "elo": 1772,
+    "form": "LWWWW",
+    "goalsScoredLast5": 10,
+    "goalsConcededLast5": 4
+  }
+]
